@@ -1,8 +1,8 @@
 {
   "name": "votes",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://alon-p.github.io",
+  "private": false,
+  "homepage": "https://alon-p.github.io/votes_view/",
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",

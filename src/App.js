@@ -6,7 +6,7 @@ import {CssBaseline} from "@mui/material";
 
 function App() {
   return (
-    <div className="App" dir="rtl">
+    <div className="App">
         <CssBaseline />
       <Routes>
         <Route path="/" element={<Home />} />
